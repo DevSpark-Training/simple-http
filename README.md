@@ -2,5 +2,5 @@
 To use in jsbin, add this to the `<head>` of the html panel:
 
 ```
-<script src="https://rawgit.com/DevSpark-Training/simple-http/master/http.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/DevSpark-Training/simple-http/http.js"></script>
 ```
